@@ -1,0 +1,10 @@
+   # Python
+   __pycache__/
+   *.pyc
+   *.pyo
+   .env
+   db.sqlite3
+
+   # Node
+   frontend/yt/node_modules/
+   frontend/yt/dist/
